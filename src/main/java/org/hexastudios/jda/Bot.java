@@ -14,10 +14,10 @@ public class Bot {
                 .build();
     }
 
-    public static void main(String[] args) throws LoginException {
+        public static void main(String[] args) throws LoginException {
 
-//        JDA api = new JDABuilder("NzM3MjgwOTc0NTU0OTIzMDU4.Xx7Eag.beS16jXzwRJO7tJxa8ytwkDcNyA").build();
-//        api.addEventListener(new Listener());
-        new Bot();
+    //        JDA api = new JDABuilder("NzM3MjgwOTc0NTU0OTIzMDU4.Xx7Eag.beS16jXzwRJO7tJxa8ytwkDcNyA").build();
+    //        api.addEventListener(new Listener());
+            new Bot();
     }
 }
